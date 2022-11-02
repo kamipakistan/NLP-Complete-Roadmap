@@ -48,13 +48,13 @@ achieved it peacefully and by means of a revolution of the greatest
 possible character."""
  
 
-# Sentence Tokenization
+# 1. Sentence Tokenization
 """Sentence tokenization, also known as Sentence Segmentation is the technique
  of dividing a string of written language into its component sentences. """
  
 sentence = nltk.sent_tokenize(paraghraph)
  
-# Word Tokenization
+# 2. Word Tokenization
 """Word tokenization, also known as Word Segmentation is the problem of 
 dividing a string of written language into its component words."""
 
