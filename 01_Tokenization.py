@@ -21,7 +21,7 @@ Created on Sat Oct 29 11:18:53 2022
 import nltk
 from nltk.tokenize import sent_tokenize
 
-paraghraph = """Mr. President (Quaid-e-Azam M Ali Jinnah): Ladies and 
+paraghraph = """Mr. President (Quaid-e-Azam Muhammad Ali Jinnah): Ladies and 
 Gentlemen, I cordially thank you, with the utmost sincerity, for the honour 
 you have conferred upon me — the greatest honour that it is possible for this 
 Sovereign Assembly to confer — by electing me as your first President. I also 
